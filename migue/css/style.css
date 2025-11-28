@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
+h1{
+    color: darkblue;
+}
+h2{
+    color: navy;
+}
+p{
+    font-size: 18px;
+    color: darkslategray;
+}
+img{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+hr{
+    border: 2px solid darkblue;
+    margin: 20px 0;
+}
+center{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+b{
+    color: darkred;
+}
